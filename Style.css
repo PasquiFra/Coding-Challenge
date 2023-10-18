@@ -7,6 +7,7 @@
 /* Immagine di sfondo*/
 body  {
     background-image: url("https://primabergamo.it/media/2023/09/Lime-monopattini-elettrici-parigi-1024x576-1.jpg");
+/*NON SONO RIUSCITO A CARICARE L'IMMAGINE DALLA CARTELLA MA SOLTANTO DA URL!!!*/  
     background-size: cover;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -17,6 +18,7 @@ body  {
     margin-left: 15%;
     margin-right: 15%;
     border-radius: 2%;
+/*BORDER RADIUS NON SIMMETRICO!!!*/
 }
 /*Header*/
 .Logo {
